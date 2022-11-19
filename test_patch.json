@@ -1,0 +1,9 @@
+{
+	"name":	"Test",
+	"comment":	"A test patchscript",
+	"patches":	[{
+			"offset":	0,
+			"cleanbytes":	[65, 65, 65],
+			"patchbytes":	[66, 67, 68]
+		}]
+}
