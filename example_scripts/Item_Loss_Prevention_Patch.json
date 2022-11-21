@@ -1,0 +1,37 @@
+{
+	"name":	"Item Loss Prevention Patch (by Ralf & Aleron Ives)",
+	"comment":	"Phantasy Star Online I & II Plus USA 1.02 for Gamecube\nNTSC-U 1.02 DOL-CPOE-0-02 SHA1SUM 0ff155311f4cc57951c03baeb1a8cc15de5fe1cd\nURL: https://psopalace.sylverant.net/downloads_gamecube.html",
+	"patches":	[{
+			"offset":	1452351324,
+			"cleanbytes":	[65, 130],
+			"patchbytes":	[72, 0]
+		}, {
+			"offset":	1452531588,
+			"cleanbytes":	[147, 227, 3, 108],
+			"patchbytes":	[96, 0, 0, 0]
+		}, {
+			"offset":	1452537104,
+			"cleanbytes":	[147, 227, 3, 108],
+			"patchbytes":	[96, 0, 0, 0]
+		}, {
+			"offset":	1452544212,
+			"cleanbytes":	[124],
+			"patchbytes":	[56]
+		}, {
+			"offset":	1452544214,
+			"cleanbytes":	[27, 120],
+			"patchbytes":	[0, 0]
+		}, {
+			"offset":	1453335916,
+			"cleanbytes":	[155, 61],
+			"patchbytes":	[72, 0]
+		}, {
+			"offset":	1453335919,
+			"cleanbytes":	[0],
+			"patchbytes":	[76]
+		}, {
+			"offset":	1453396012,
+			"cleanbytes":	[65, 130],
+			"patchbytes":	[72, 0]
+		}]
+}
