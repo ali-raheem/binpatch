@@ -1,9 +1,0 @@
-{
-	"name":	"Item Loss Prevention Patch",
-	"comment":	"For Phantasy Star Online Episodes I & II Rev 1.02 USA on the GameCube",
-	"patches":	[{
-			"offset":	0,
-			"cleanbytes":	[65, 65, 65, 65, 65],
-			"patchbytes":	[66, 67, 68, 69, 70]
-		}]
-}
